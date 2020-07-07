@@ -1,0 +1,22 @@
+{
+  "name": "game-forge",
+  "version": "0.0.1",
+  "description": "A Discord Bot for the official Game Forge Server",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Matthew-Bowman/Game-Forge.git"
+  },
+  "author": "Matthew Bowman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Matthew-Bowman/Game-Forge/issues"
+  },
+  "homepage": "https://github.com/Matthew-Bowman/Game-Forge#readme",
+  "dependencies": {
+    "discord.js": "^12.2.0"
+  }
+}
